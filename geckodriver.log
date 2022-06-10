@@ -1,0 +1,705 @@
+1653065790692	geckodriver	INFO	Listening on 127.0.0.1:50391
+1653065793744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50392" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofiletjfEyZ"
+1653065794088	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofiletjfEyZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50392/devtools/browser/715d184e-720e-41fc-a460-fc0110a46fef
+1653065795571	Marionette	INFO	Listening on port 50411
+Read port: 50411
+1653065795634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://trc.taboola.com/sg/navegg/1/cm, line 1: SyntaxError: illegal character U+0001
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653065932846	Marionette	INFO	Stopped listening on port 50411
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653067255055	geckodriver	INFO	Listening on 127.0.0.1:60543
+1653067258120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60544" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofile5iLPsI"
+1653067258454	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofile5iLPsI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60544/devtools/browser/c474f46b-4db6-4f62-a41d-3c6d01f1384c
+1653067260044	Marionette	INFO	Listening on port 60566
+Read port: 60566
+1653067260111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653067275318	Marionette	INFO	Stopped listening on port 60566
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653068746681	geckodriver	INFO	Listening on 127.0.0.1:59586
+1653068749725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofile9UhGgX"
+1653068750060	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofile9UhGgX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59587/devtools/browser/a3238451-62df-41e5-b6e6-f024b766a563
+1653068751572	Marionette	INFO	Listening on port 59606
+Read port: 59606
+1653068751606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653068760186	Marionette	INFO	Stopped listening on port 59606
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1653068780084	geckodriver	INFO	Listening on 127.0.0.1:56369
+1653068783152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56370" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofile5ZCt4c"
+1653068783490	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofile5ZCt4c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56370/devtools/browser/355890f6-d142-44ae-a91f-736467120477
+1653068784968	Marionette	INFO	Listening on port 56389
+Read port: 56389
+1653068785031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://trc.taboola.com/sg/navegg/1/cm, line 1: SyntaxError: illegal character U+0001
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653068932639	geckodriver	INFO	Listening on 127.0.0.1:56512
+1653068935688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofileG5fT7w"
+1653068936027	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofileG5fT7w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56513/devtools/browser/1f5b3b00-f65a-4d14-a129-4565e3b7a2dc
+1653068937532	Marionette	INFO	Listening on port 56530
+Read port: 56530
+1653068937580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653068950807	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://trc.taboola.com/sg/navegg/1/cm, line 1: SyntaxError: illegal character U+0001
+1653068961868	Marionette	INFO	Stopped listening on port 56530
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653068983117	geckodriver	INFO	Listening on 127.0.0.1:62101
+1653068986188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62102" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofileitc8h6"
+1653068986523	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofileitc8h6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62102/devtools/browser/3f1c9707-3587-4a72-8bf6-8b9f4f2c6e9a
+1653068987964	Marionette	INFO	Listening on port 54589
+Read port: 54589
+1653068988071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653069078530	geckodriver	INFO	Listening on 127.0.0.1:49377
+1653069081588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49378" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofilekhWiWw"
+1653069081915	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofilekhWiWw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49378/devtools/browser/d75dce21-7f10-4812-a2bc-d3b27fb8a027
+1653069083349	Marionette	INFO	Listening on port 49395
+Read port: 49395
+1653069083470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://trc.taboola.com/sg/navegg/1/cm, line 1: SyntaxError: illegal character U+0001
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1653069366833	Marionette	INFO	Stopped listening on port 49395
+[Parent 9392, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653069369055	geckodriver	INFO	Listening on 127.0.0.1:49535
+1653069372102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49536" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofileW3ubWO"
+1653069372427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofileW3ubWO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49536/devtools/browser/4f99e9a8-0a48-4e3b-8cb0-21d66f30edc1
+1653069373862	Marionette	INFO	Listening on port 49552
+Read port: 49552
+1653069373878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653069374318	Marionette	INFO	Stopped listening on port 49552
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1653069412607	geckodriver	INFO	Listening on 127.0.0.1:49562
+1653069415679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49563" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofilezJpM2u"
+1653069416005	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofilezJpM2u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49563/devtools/browser/ebd3e41e-2c9c-48ce-9244-d280156cbe71
+1653069417462	Marionette	INFO	Listening on port 49580
+Read port: 49580
+1653069417563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://trc.taboola.com/sg/navegg/1/cm, line 1: SyntaxError: illegal character U+0001
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653069456213	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1653069460384	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.sefaz.rs.gov.br/Include2/jQuery/jquery.min.js line 4 > srcScript, line 2: SecurityError: Permission denied to access property "execScript" on cross-origin object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dfe-portal.svrs.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dfe-portal.svrs.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1653069616955	Marionette	INFO	Stopped listening on port 49580
+[Parent 23096, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:725
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653072033767	geckodriver	INFO	Listening on 127.0.0.1:60497
+1653072036843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60498" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofileJxqg3j"
+1653072037210	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofileJxqg3j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60498/devtools/browser/b138acb8-e1e7-46d7-b21f-91bf3d822d18
+1653072038803	Marionette	INFO	Listening on port 60517
+Read port: 60517
+1653072038862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653072049397	Marionette	INFO	Stopped listening on port 60517
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653072061931	geckodriver	INFO	Listening on 127.0.0.1:63643
+1653072064993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63644" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofile6LXXCM"
+1653072065329	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofile6LXXCM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63644/devtools/browser/c6e4e056-009c-4e00-ae28-8f7b530dc3fa
+1653072066774	Marionette	INFO	Listening on port 63666
+Read port: 63666
+1653072066877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://trc.taboola.com/sg/navegg/1/cm, line 1: SyntaxError: illegal character U+0001
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+1653072137277	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://www.sefaz.rs.gov.br/Include2/jQuery/jquery.min.js line 4 > srcScript:4:16793
+ajax@https://www.sefaz.rs.gov.br/Include2/jQuery/jquery.min.js line 4 > srcScript:4:13967
+bp@https://www.sefaz.rs.gov.br/Include2/jQuery/jquery.min.js line 4 > srcScript:2:3246
+each@https://www.sefaz.rs.gov.br/Include2/jQuery/jquery.min.js line 4 > srcScript:2:11937
+domManip@https://www.sefaz.rs.gov.br/Include2/jQuery/jquery.min.js line 4 > srcScript:4:1920
+append@https://www.sefaz.rs.gov.br/Include2/jQuery/jquery.min.js line 4 > srcScript:3:31818
+html@https://www.sefaz.rs.gov.br/Include2/jQuery/jquery.min.js line 4 > srcScript:4:776
+atualizaAreaInfoLoginSuccess@https://www.sefaz.rs.gov.br/NFE/NFE-NFC.aspx?chaveNFe=43220593015006005263651090003711361794038225:136:38
+n@https://www.sefaz.rs.gov.br/Include2/jQuery/jquery.min.js line 4 > srcScript:2:14784
+fireWith@https://www.sefaz.rs.gov.br/Include2/jQuery/jquery.min.js line 4 > srcScript:2:15553
+w@https://www.sefaz.rs.gov.br/Include2/jQuery/jquery.min.js line 4 > srcScript:4:11395
+d@https://www.sefaz.rs.gov.br/Include2/jQuery/jquery.min.js line 4 > srcScript:4:17218
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653072155609	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.sefaz.rs.gov.br/Include2/jQuery/jquery.min.js, line 2: SecurityError: Permission denied to access property "execScript" on cross-origin object
+1653072208431	Marionette	INFO	Stopped listening on port 63666
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653073575230	geckodriver	INFO	Listening on 127.0.0.1:55713
+1653073578272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55714" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofileqj8bxr"
+1653073578665	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofileqj8bxr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55714/devtools/browser/4e818515-7f0c-4b92-9de1-37f9309bd13e
+1653073580530	Marionette	INFO	Listening on port 55737
+Read port: 55737
+1653073580591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653073589442	Marionette	INFO	Stopped listening on port 55737
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653073604335	geckodriver	INFO	Listening on 127.0.0.1:55825
+1653073607424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55826" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofilesfPKig"
+1653073607810	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofilesfPKig\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55826/devtools/browser/5d0c2a1e-1a7e-41dd-aaae-60abe1b51602
+1653073609506	Marionette	INFO	Listening on port 60556
+Read port: 60556
+1653073609524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653073630104	Marionette	INFO	Stopped listening on port 60556
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653073810013	geckodriver	INFO	Listening on 127.0.0.1:58659
+1653073813051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58660" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofilem4QIAs"
+1653073813504	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofilem4QIAs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58660/devtools/browser/94381351-e088-4f0c-90da-bec7bb8a8c3f
+1653073815336	Marionette	INFO	Listening on port 58677
+Read port: 58677
+1653073815608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://trc.taboola.com/sg/navegg/1/cm, line 1: SyntaxError: illegal character U+0001
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653073918200	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653073929451	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653074061660	Marionette	INFO	Stopped listening on port 58677
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653678391072	geckodriver	INFO	Listening on 127.0.0.1:51428
+1653678394062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofilegjtX1h"
+1653678394455	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofilegjtX1h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51429/devtools/browser/d66455cb-67b0-4ec3-87a8-39f84b6c0bec
+1653678396115	Marionette	INFO	Listening on port 51450
+Read port: 51450
+1653678396152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://trc.taboola.com/sg/navegg/1/cm, line 1: SyntaxError: illegal character U+0001
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.sefaz.rs.gov.br/Include2/jQuery/jquery.min.js line 4 > srcScript, line 2: SecurityError: Permission denied to access property "execScript" on cross-origin object
+1653678463952	Marionette	INFO	Stopped listening on port 51450
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653678650381	geckodriver	INFO	Listening on 127.0.0.1:53855
+1653678653420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53856" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofilemVHHDT"
+1653678653764	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofilemVHHDT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53856/devtools/browser/7f46db00-20d4-47c8-8e9d-a9c9276138e5
+1653678655250	Marionette	INFO	Listening on port 53875
+Read port: 53875
+1653678655271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://trc.taboola.com/sg/navegg/1/cm, line 1: SyntaxError: illegal character U+0001
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.sefaz.rs.gov.br/Include2/jQuery/jquery.min.js line 4 > srcScript, line 2: SecurityError: Permission denied to access property "execScript" on cross-origin object
+1653678727696	Marionette	INFO	Stopped listening on port 53875
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653678754942	geckodriver	INFO	Listening on 127.0.0.1:63630
+1653678757972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofile7UdTy1"
+1653678758352	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofile7UdTy1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63631/devtools/browser/c2651b74-45d1-4309-b4fa-ce948cee39f0
+1653678760019	Marionette	INFO	Listening on port 63650
+Read port: 63650
+1653678760035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653678775945	Marionette	INFO	Stopped listening on port 63650
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653678778865	geckodriver	INFO	Listening on 127.0.0.1:63700
+1653678781904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofilePawrAA"
+1653678782246	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofilePawrAA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63701/devtools/browser/d76123a3-de34-4fdb-8506-33b4c6d8898c
+1653678783865	Marionette	INFO	Listening on port 63719
+Read port: 63719
+1653678783968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653678789788	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653678793517	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://trc.taboola.com/sg/navegg/1/cm, line 1: SyntaxError: illegal character U+0001
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.sefaz.rs.gov.br/Include2/jQuery/jquery.min.js line 4 > srcScript, line 2: SecurityError: Permission denied to access property "execScript" on cross-origin object
+1653678838968	Marionette	INFO	Stopped listening on port 63719
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 898: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1653679169851	geckodriver	INFO	Listening on 127.0.0.1:55310
+1653679172877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofilexUZOoT"
+1653679173214	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofilexUZOoT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55311/devtools/browser/f445e8bc-30c8-4348-96ad-1b8f9fb0d0f8
+1653679174898	Marionette	INFO	Listening on port 55331
+Read port: 55331
+1653679174940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://trc.taboola.com/sg/navegg/1/cm, line 1: SyntaxError: illegal character U+0001
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.sefaz.rs.gov.br/Include2/jQuery/jquery.min.js line 4 > srcScript, line 2: SecurityError: Permission denied to access property "execScript" on cross-origin object
+1653679233205	Marionette	INFO	Stopped listening on port 55331
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654278518179	geckodriver	INFO	Listening on 127.0.0.1:56251
+1654278521234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56252" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofileVPUVy4"
+1654278521682	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56252
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JOO~1\\AppData\\Local\\Temp\\rust_mozprofileVPUVy4\\search.json.mozlz4", (void 0)))
+1654278523448	Marionette	INFO	Listening on port 56272
+DevTools listening on ws://localhost:56252/devtools/browser/5790b715-57ff-4dee-9508-9fbb969787a9
+Read port: 56272
+1654278523560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654278529553	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654278533293	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://trc.taboola.com/sg/navegg/1/cm, line 1: SyntaxError: illegal character U+0001
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nfg.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654278539708	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654278543981	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654278548228	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.sefaz.rs.gov.br/ASP/include/SEF_funcoes.js, line 457: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sefaz.rs.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.sefaz.rs.gov.br/Include2/jQuery/jquery.min.js line 4 > srcScript, line 2: SecurityError: Permission denied to access property "execScript" on cross-origin object
+1654278585968	Marionette	INFO	Stopped listening on port 56272
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
